@@ -1,9 +1,19 @@
-### Hi there 👋
+<h1>Hi there, i'm Nelson :facepunch:</h1>
+<h4>Junior Full Stack Developer</h4>
 
-<!--
-**nelsonsantos22/nelsonsantos22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p><i>"It's never too late to be great."</i></p>
+<p>From a social communication graduation to the tech world.</p>
+<p>Technology was always something that has driven me and after spending years feeling unfulfilled professionally I stepped up and decided to take a leap of faith and engage in a world that has always fascinated me.
+From that moment on, I have been learning new programming languages, technologies and how development works.
+In addition to these new useful technical skills, I'm a natural born communicator and a team player.</p>
+
+<h2>Find me around the web:</h2>
+<ul>
+ <li><a href="https://www.linkedin.com/in/nelsonsantos22/">Linkedin</li>
+</ul>
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
