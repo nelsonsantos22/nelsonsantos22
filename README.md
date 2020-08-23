@@ -8,9 +8,13 @@
 From that moment on, I have been learning new programming languages, technologies and how development works.
 In addition to these new useful technical skills, I'm a natural born communicator and a team player.</p>
 
-<h2>Find me around the web:</h2>
+<h2>Find me around the web</h2>
 <ul>
  <li><a href="https://www.linkedin.com/in/nelsonsantos22/">Linkedin</li>
+</ul>
+<h2>Get in touch</h2>
+<ul>
+ <li><a href="mailto:nelsonsilvasantos@outlook.com">nelsonsilvasantos@outlook.com</li>
 </ul>
 
 <!--Here are some ideas to get you started:
