@@ -6,7 +6,6 @@
 <p>From a social communication graduation to the tech world.</p>
 <p>Technology was always something that has driven me and after spending years feeling unfulfilled professionally I stepped up and decided to take a leap of faith and engage in a world that has always fascinated me.
 From that moment on, I have been learning new programming languages, technologies and how development works.
-In addition to these new useful technical skills, I'm a natural born communicator and a team player.</p>
 
 <h2>Find me around the web</h2>
 <ul>
