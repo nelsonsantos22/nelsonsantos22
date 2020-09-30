@@ -9,7 +9,7 @@ From that moment on, I have been learning new programming languages, technologie
 
 <h2>Find me around the web</h2>
 <ul>
- <li><a href="https://www.linkedin.com/in/nelsonsantos22/">Linkedin</li>
+ <li><a href="https://www.linkedin.com/in/nelsonsantos22/"><img src="https://www.freepik.com/free-icon/linkedin-logo_779994.htm"></li>
 </ul>
 <h2>Get in touch</h2>
 <ul>
