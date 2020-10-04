@@ -10,6 +10,7 @@ From that moment on, I have been learning new programming languages, technologie
 <h2>:telescope: Find me around the web</h2>
 <ul>
  <li><a href="https://www.linkedin.com/in/nelsonsantos22/">Linkedin</li>
+  <li><a href="http://www.nelsonsilvasantos.com">www.nelsonsilvasantos.com</li>
 </ul>
 <h2>:mega: Get in touch</h2>
 <ul>
