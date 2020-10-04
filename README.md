@@ -1,6 +1,6 @@
 <h1>Hi there, i'm Nelson :facepunch:</h1>
 <h4>Junior Full Stack Developer</h4>
-
+<img src="https://gitlab.com/nelsonsantos22/support/-/raw/master/banner-04.png">
 
 <p><i>"It's never too late to be great."</i></p>
 <p>From a social communication graduation to the tech world.</p>
