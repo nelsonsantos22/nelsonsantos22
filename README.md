@@ -1,11 +1,11 @@
 <h1>Hi there, i'm Nelson :facepunch:</h1>
 <h4>Junior Full Stack Developer</h4>
-<img src="https://gitlab.com/nelsonsantos22/support/-/raw/master/banner-04.png">
+<!--<img src="https://gitlab.com/nelsonsantos22/support/-/raw/master/banner-04.png">-->
 
 <!--<p><i>"It's never too late to be great."</i></p>
-<p>From a social communication graduation to the tech world.</p>
+<p>From a social communication graduation to the tech world.</p>-->
 <p>Technology was always something that has driven me and after spending years feeling unfulfilled professionally I stepped up and decided to take a leap of faith and engage in a world that has always fascinated me.
-From that moment on, I have been learning new programming languages, technologies and how development works.-->
+From that moment on, I have been learning new programming languages, technologies and how development works.
 
 <h2>:telescope: Find me around the web</h2>
 <ul>
